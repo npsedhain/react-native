@@ -1,3 +1,2 @@
-# react-native
-Learning phase project
-This is for personal purpose. 
+react native part of dailo-app 
+#first try
